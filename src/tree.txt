@@ -1,0 +1,76 @@
+Folder PATH listing
+Volume serial number is 54A0-DFDF
+C:.
+³   favicon.ico
+³   index.html
+³   main.ts
+³   polyfills.ts
+³   styles.scss
+³   test.ts
+³   tree.txt
+³   
+ÃÄÄÄapp
+³   ³   app-routing.module.ts
+³   ³   app.component.html
+³   ³   app.component.scss
+³   ³   app.component.spec.ts
+³   ³   app.component.ts
+³   ³   app.module.ts
+³   ³   
+³   ÃÄÄÄadmin
+³   ³   ³   admin.component.html
+³   ³   ³   admin.component.scss
+³   ³   ³   admin.component.ts
+³   ³   ³   admin.module.ts
+³   ³   ³   admin.routing.ts
+³   ³   ³   
+³   ³   ÃÄÄÄcompanies
+³   ³   ³       companies.component.html
+³   ³   ³       companies.component.scss
+³   ³   ³       companies.component.ts
+³   ³   ³       companies.module.ts
+³   ³   ³       companies.routing.ts
+³   ³   ³       
+³   ³   ÃÄÄÄshared
+³   ³   ³   ³   shared.module.ts
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄservices
+³   ³   ³           companies.service.spec.ts
+³   ³   ³           companies.service.ts
+³   ³   ³           
+³   ³   ÀÄÄÄusers
+³   ³       ³   users.component.html
+³   ³       ³   users.component.scss
+³   ³       ³   users.component.ts
+³   ³       ³   users.module.ts
+³   ³       ³   users.routing.ts
+³   ³       ³   
+³   ³       ÀÄÄÄshared
+³   ³           ³   shared.module.ts
+³   ³           ³   
+³   ³           ÀÄÄÄservices
+³   ³                   users.service.spec.ts
+³   ³                   users.service.ts
+³   ³                   
+³   ÀÄÄÄcommon
+³       ³   common.module.ts
+³       ³   
+³       ÃÄÄÄdirectives
+³       ³       error-highlight.directive.spec.ts
+³       ³       error-highlight.directive.ts
+³       ³       
+³       ÃÄÄÄpipes
+³       ³       includes.pipe.spec.ts
+³       ³       includes.pipe.ts
+³       ³       
+³       ÀÄÄÄservices
+³               local-storage.service.spec.ts
+³               local-storage.service.ts
+³               
+ÃÄÄÄassets
+³       .gitkeep
+³       
+ÀÄÄÄenvironments
+        environment.prod.ts
+        environment.ts
+        
